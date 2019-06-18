@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 7vh;
+    background-color: white;
+    box-shadow: 5px 5px rgba(0,0,0,0.2);
+    position: relative;
+    color: #b52e31;
+
+}
+a{
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 50px;
+}
+header i {
+    transform: scale(0.5);
+}
