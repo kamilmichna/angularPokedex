@@ -3,6 +3,10 @@
     height: 500px;
     background-color: white;
     box-shadow: 15px 15px rgba(0,0,0,0.2);
+    transition-duration: 0.5s;
+    &:hover{
+        transform: scale(1.05);
+    }
 
 }
 .item__content{
@@ -14,9 +18,9 @@
     flex-direction: column;
 }
 .item__content img{
-    width: 100%;
+    width: 80%;
 
 }
 .item__content .item__button{
-    margin: 10px;
+    margin: 30px;
 }
