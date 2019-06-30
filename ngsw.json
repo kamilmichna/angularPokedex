@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1561902936551,
+  "timestamp": 1561912043694,
   "index": "https://kamilmichna.github.io/angularPokedex/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://kamilmichna.github.io/angularPokedex/favicon.ico",
         "https://kamilmichna.github.io/angularPokedex/index.html",
-        "https://kamilmichna.github.io/angularPokedex/main-es2015.94c068d1d4b4b6e27478.js",
-        "https://kamilmichna.github.io/angularPokedex/main-es5.3d9da47f0b0652beb7b6.js",
+        "https://kamilmichna.github.io/angularPokedex/main-es2015.8d3760580eb9e82f6403.js",
+        "https://kamilmichna.github.io/angularPokedex/main-es5.cc2a3ac20d500e8bb661.js",
         "https://kamilmichna.github.io/angularPokedex/polyfills-es2015.5728f680576ca47e99fe.js",
         "https://kamilmichna.github.io/angularPokedex/polyfills-es5.943113ac054b16d954ae.js",
         "https://kamilmichna.github.io/angularPokedex/runtime-es2015.858f8dd898b75fe86926.js",
@@ -41,10 +41,10 @@
     {
       "name": "api-performance",
       "patterns": [
-        "https:\\/\\/pokeapi\\.co\\/api\\/v2\\/[^/]*"
+        "https:\\/\\/pokeapi\\.co\\/api\\/v2\\/pokemon"
       ],
       "strategy": "performance",
-      "maxSize": 100,
+      "maxSize": 1000,
       "maxAge": 259200000,
       "version": 1
     }
@@ -59,9 +59,9 @@
     "https://kamilmichna.github.io/angularPokedex/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://kamilmichna.github.io/angularPokedex/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://kamilmichna.github.io/angularPokedex/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://kamilmichna.github.io/angularPokedex/index.html": "1f0609e3e134d632ea9ba05a2d0058a7ad31a3b8",
-    "https://kamilmichna.github.io/angularPokedex/main-es2015.94c068d1d4b4b6e27478.js": "e26e1a632df55828ce2dedbd7fc3adcecd7a652d",
-    "https://kamilmichna.github.io/angularPokedex/main-es5.3d9da47f0b0652beb7b6.js": "14726a03281c89768ab990d60d49834dd215e527",
+    "https://kamilmichna.github.io/angularPokedex/index.html": "b9ffb9ddddb7d861dba56e79f8f8b8b96d090771",
+    "https://kamilmichna.github.io/angularPokedex/main-es2015.8d3760580eb9e82f6403.js": "f417c608b32bb523870d582e660206a85e03ca09",
+    "https://kamilmichna.github.io/angularPokedex/main-es5.cc2a3ac20d500e8bb661.js": "212e9cb1b32b0ac26a8880810acbf5a88ca44780",
     "https://kamilmichna.github.io/angularPokedex/polyfills-es2015.5728f680576ca47e99fe.js": "77f974dd2b186031cfc4f4526d96db4efcd39353",
     "https://kamilmichna.github.io/angularPokedex/polyfills-es5.943113ac054b16d954ae.js": "042d7744ef82a64c73310f1db253736731a03950",
     "https://kamilmichna.github.io/angularPokedex/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
